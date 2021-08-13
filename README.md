@@ -10,4 +10,4 @@
 - ⭐looking forward to share my codes with the community⭐
 <!-- [![My Github States](https://github-readme-stats.vercel.app/api?username=xvendor&show_icons=true&theme=dracula)](https://github.com/machadop1407/github-readme-stats) -->
 
--$~~~~~~~~~~~$ ![giphy (2)](https://user-images.githubusercontent.com/72660683/129367301-b38edfa8-a23c-4707-90d2-c7211c98d76e.gif)
+-⠀⠀⠀⠀⠀⠀⠀![giphy (2)](https://user-images.githubusercontent.com/72660683/129367301-b38edfa8-a23c-4707-90d2-c7211c98d76e.gif)
