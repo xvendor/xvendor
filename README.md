@@ -1,7 +1,7 @@
 ## Hi there! 
 
 - Get to know me! -->I am yahya benzha a software engineering student.
-- Coding! --> I love coding and working on new ideas.
+- ✦ I love coding and working on new ideas.
 - 🔭 I’m currently working on web app developpement
 - 🌱 I’m currently learning jango-flutter-firebase...
 - 👯 I’m looking to collaborate on all dev projects !
