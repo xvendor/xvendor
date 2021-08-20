@@ -3,7 +3,7 @@
 - ✨I am yahya benzha a software engineering student.
 - 💫 I love coding and working on new ideas.
 - 🔭 I’m currently working on web app developpement
-- 🌱 I’m currently invested in Cybersecurity-django-flutter-firebase...
+- 🌱 I’m currently invested in Cybersecurity,django..
 - 👯 I’m looking to collaborate on all dev projects !
 - 💬 Ask me about Anything you have in mind!
 - 📫 How to reach me: [email](yahya_benzha@um5.ac.ma) - [linkedin](https://www.linkedin.com/in/yahya-benzha-85787b187/)
